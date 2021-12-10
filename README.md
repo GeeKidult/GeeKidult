@@ -1,9 +1,6 @@
+![Github Stats](https://github-readme-stats.vercel.app/api?username=GeeKidult&show_icons=true&theme=radical)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=GeeKidult)
 
-你好，世界 👋 
-
-|  id   | 
-|  ----  |  
-| Xe.aX | 
 <details>
  <summary>Hello</summary>
  ...World...
